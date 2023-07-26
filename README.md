@@ -2,4 +2,4 @@
 git and git hub tutorial repository
  ## subheader
 
-watch the video on youtube and in internet also. 
+watch the video on youtube and in internet also and in any possible sources also.
